@@ -48,5 +48,6 @@ transformer -main/\
 ├── AblationExperiment.py    # 消融实验代码\
 ├── Final_Transformer.py     # 主模型训练代码\
 ├── langconv.py              # 中文简繁转换工具\
+├── zh_wiki.py              # 中文简繁转换工具\
 ├── README.md                # 项目说明文档\
 └── requirements.txt         # Python依赖包列表
