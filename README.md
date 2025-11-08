@@ -38,7 +38,7 @@ python AblationExperiment.py
 随机种子: 代码中已固定为 42 (torch.manual_seed(42))
 
 ## 项目文件排布说明
-transformer-english2chinese--main/\
+transformer -main/\
 ├── ablation_images/           # 消融实验可视化图表\
 ├── ablation_results/          # 消融实验详细结果\
 ├── Complete_images/           # 完整模型训练可视化图表\
